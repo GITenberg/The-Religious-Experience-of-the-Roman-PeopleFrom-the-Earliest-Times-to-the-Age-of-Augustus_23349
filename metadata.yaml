@@ -1,0 +1,33 @@
+_repo: The-Religious-Experience-of-the-Roman-PeopleFrom-the-Earliest-Times-to-the-Age-of-Augustus_23349
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fowler, W. Warde (William Warde)
+    aliases:
+    - Fowler, Warde
+    - Fowler, William Warde
+    birthdate: 1847
+    deathdate: 1921
+    gutenberg_agent_id: '3907'
+    url: http://www.gutenberg.org/2009/agents/3907
+description: ''
+gutenberg_issued: '2007-11-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23349'
+  lccn: '12000395'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Cults -- Rome'
+- !lcsh 'Rome -- Religion'
+title: 'The Religious Experience of the Roman People
+
+  From the Earliest Times to the Age of Augustus'
+url: http://www.gutenberg.org/ebooks/23349
