@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '3907'
     url: http://www.gutenberg.org/2009/agents/3907
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23349#The-Religious-Experience-of-the-Roman-PeopleFrom-the-Earliest-Times-to-the-Age-of-Augustus
 gutenberg_issued: '2007-11-06'
 gutenberg_type: Text
 identifiers:
